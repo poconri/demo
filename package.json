@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "proxy": "https://api.openwathermap.org",
   "browserslist": "defaults, not ie <= 11",
   "dependencies": {
     "@headlessui/react": "^1.7.13",
@@ -32,6 +33,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-dropzone": "^14.2.3",
+    "recharts": "^2.12.7",
     "remark-gfm": "^4.0.0",
     "swiper": "^11.1.1",
     "tailwindcss": "^3.4.1",

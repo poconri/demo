@@ -17,7 +17,7 @@ const projects = [
     description:
       'Converts images to text using the latest in AI technology.',
 	  //la ruta va ser la dirección actual mas text-to-image
-    link: { href: `${window.location.pathname}/image-to-text`, label: 'image-to-text' },
+    link: { href: '/projects/image-to-text', label: 'image-to-text' },
     logo: imageToText,
   },
   {
